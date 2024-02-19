@@ -2,8 +2,8 @@
 # Soil
 
 <img src="https://github.com/n0ughtchill/vivarium/blob/main/images/firma.png?raw=true" width="150">
-![firma](../images/firma.png){width=150}
 [BioActive Fauna Kit](https://www.thebiodude.com/collections/terra-fauna-bioactive-substrate-kits/products/terra-fauna-bioactive-kit-18-x-18-x-18-24)  $105
+
 ![[springtails.png| 150]]
 [Springtails](https://joshsfrogs.com/sp/temperate-springtail-collembola-culture-8-oz-jfc81577) $8
 ![[dwarf.png| 150]]
