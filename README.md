@@ -1,5 +1,7 @@
 
 # Soil
+
+<img src="../images/firma.png" width="150">
 ![firma](../images/firma.png){width=150}
 [BioActive Fauna Kit](https://www.thebiodude.com/collections/terra-fauna-bioactive-substrate-kits/products/terra-fauna-bioactive-kit-18-x-18-x-18-24)  $105
 ![[springtails.png| 150]]
